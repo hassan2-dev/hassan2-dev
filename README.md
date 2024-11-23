@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating c
 - Innovative ideas for enhancing user experiences
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Portfolio: [hassan2-dev.github.io](https://hassan2-dev.github.io) *(Update with your link)*
-- Instagram: [@hassan.dev](https://www.instagram.com/0_h21) *(Update with your handle)*
+- Email: [your-email@example.com](hasssan.21.adnan@gmail.com)
+- Portfolio: [hassan2-dev.github.io](https://hassan2-dev.github.io)
+- Instagram: [@hassan.dev](https://www.instagram.com/0_h21) 
 
 ## 😄 Pronouns
 He/Him
