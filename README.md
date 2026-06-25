@@ -2,65 +2,64 @@
 
 ### Technical Director | Software Architect | Senior Backend Engineer | Full Stack Developer
 
-I am a passionate software engineer from Iraq specializing in designing scalable backend systems, enterprise applications, and modern web & mobile platforms.
+I'm a passionate software engineer from Iraq with extensive experience in designing, developing, and leading modern software solutions. I specialize in building scalable backend systems, enterprise platforms, SaaS products, AI-powered applications, and cross-platform mobile apps.
 
-Currently serving as **Technical Director at Larthaa Lab**, where I lead engineering teams, define software architecture, and oversee the development of multiple commercial products.
-
-I enjoy transforming ideas into production-ready applications while focusing on clean architecture, scalability, security, and exceptional user experiences.
+Currently, I serve as **Technical Director at Larthaa Lab**, where I lead the company's technical strategy, manage engineering teams, and oversee the development of commercial software products from concept to production.
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio**
-https://hasan-snowy.vercel.app/
+**Website:**
+👉 **https://hasan-snowy.vercel.app/**
 
-Explore my featured projects, professional experience, and technical journey.
+Explore my portfolio to discover my commercial products, enterprise systems, and featured software projects.
 
 ---
 
-## 💼 Professional Roles
+## 💼 Current Roles
 
-* 🚀 Technical Director — Larthaa Lab
-* 👨‍💻 Founder — Alworya
-* 🤝 Technical Director & Partner — FAW GO
-* 🏗 Software Architect
-* ⚙️ Senior Backend Engineer
-* 📱 Full Stack Developer
+* Technical Director — Larthaa Lab
+* Founder & Owner — Alworya
+* Technical Director & Partner — FAW GO
+* Founder — Jarah
+* Software Architect
+* Senior Backend Engineer
+* Full Stack Developer
 
 ---
 
 ## 🚀 Featured Products
 
-### 🏛 Alworya
+### Alworya
 
-Comprehensive digital platform for consultation management, booking, payments, dashboards, and real-time communication.
+A comprehensive digital consultation platform connecting users with verified experts through booking, payments, real-time communication, dashboards, and AI-powered features.
 
-### 🚗 Jarah
+### Jarah
 
-AI-powered marketplace connecting customers with verified local service providers.
+AI-powered marketplace connecting customers with trusted local service providers through booking, location services, and intelligent recommendations.
 
-### 🚚 FAW GO
+### FAW GO
 
-Super App for delivery, restaurants, shopping, transportation, and local services.
+A Super App providing delivery, shopping, transportation, restaurants, and on-demand local services.
 
-### 🛒 MEL.IQ
+### MEL.IQ
 
 Enterprise SaaS e-commerce platform inspired by modern online store builders.
 
-### 🏢 Majlis
+### Majlis
 
-Enterprise platform with encrypted media management and secure government-grade workflows.
+Enterprise platform featuring secure media management, encrypted storage, workflow automation, and government-grade security.
 
-### 📧 Mail
+### Mail
 
 Business communication and management platform.
 
-### 🔧 Worshtak
+### Worshtak
 
-Workshop management platform with scheduling, maintenance, inventory, and analytics.
+Workshop management platform for maintenance scheduling, inventory, analytics, and business operations.
 
-### 🤖 Let's Speak
+### Let's Speak
 
 AI-powered language learning platform with intelligent chatbot integration.
 
@@ -68,79 +67,62 @@ AI-powered language learning platform with intelligent chatbot integration.
 
 ## 💻 Tech Stack
 
-### Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,flutter,tailwind,materialui,postgres,mongodb,mysql,prisma,firebase,docker,linux,nginx,git,github,vscode,figma,postman&perline=8"/>
+</p>
 
-* NestJS
-* Node.js
-* Express.js
-* TypeScript
-* Prisma ORM
-* TypeORM
-* REST APIs
-* JWT
+### Additional Technologies
+
+* REST API Development
+* Software Architecture
+* Microservices
+* JWT Authentication
 * OAuth
-
-### Frontend
-
-* React
-* React Native
-* Expo
-* Tailwind CSS
-* Material UI
-
-### Databases
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* Firebase
-
-### DevOps
-
-* Docker
-* Linux
-* VPS
-* Nginx
-* Coolify
-* CI/CD
-
-### AI
-
+* Role-Based Access Control (RBAC)
+* AI Integration
 * OpenAI API
-* AI Automation
-* AI Integrations
+* Docker Compose
+* VPS Management
+* CI/CD
+* Coolify
+* Linux Server Administration
+* Database Design & Optimization
+* Google Play Console
+* Apple App Store Connect
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
-* Enterprise Software Development
-* Backend Architecture
-* Mobile Applications
-* Cloud Infrastructure
-* DevOps
-* AI Integrations
-* Database Design
-* System Architecture
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hassan2-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📫 Connect With Me
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2-dev&theme=tokyonight&hide_border=true"/>
 
-🌐 Portfolio
-https://hasan-snowy.vercel.app/
-
-💻 GitHub
-https://github.com/hassan2-dev
-
-💼 LinkedIn
-https://www.linkedin.com/in/hassan-adnan21
-
-📧 Email
-[hassan.21.adnan@gmail.com](mailto:hassan.21.adnan@gmail.com)
+</p>
 
 ---
 
-⭐ Thanks for visiting my GitHub profile.
+## 📊 Most Used Languages
 
-Feel free to explore my repositories, products, and portfolio. I'm always interested in collaborating on innovative software projects and enterprise solutions.
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan2-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+* 🌐 Portfolio: https://hasan-snowy.vercel.app/
+* 💻 GitHub: https://github.com/hassan2-dev
+* 💼 LinkedIn: https://www.linkedin.com/in/hassan-adnan21
+* 📧 Email: [hassan.21.adnan@gmail.com](mailto:hassan.21.adnan@gmail.com)
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+Feel free to explore my repositories, featured products, and portfolio. I'm always interested in collaborating on innovative software projects, enterprise systems, SaaS platforms, AI solutions, and modern web & mobile applications.
