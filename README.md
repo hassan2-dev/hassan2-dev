@@ -1,48 +1,146 @@
-# 👋 Hi, I'm Hassan (@hassan2-dev)!
+# 👋 Hi, I'm Hassan Adnan
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to creating clean, efficient, and user-friendly applications. Here's a little more about me:
+### Technical Director | Software Architect | Senior Backend Engineer | Full Stack Developer
 
-## 👀 Interests
-- Full-stack development
-- Building interactive web and mobile applications
-- Exploring modern frameworks and technologies like React, React Native, Next.js, and NestJS
-- Crafting elegant UI/UX designs with TailwindCSS and Material Tailwind
+I am a passionate software engineer from Iraq specializing in designing scalable backend systems, enterprise applications, and modern web & mobile platforms.
 
-## 🌱 Currently Learning
-- Advanced backend development with **NestJS** and **MongoDB**
-- Building scalable applications using **Prisma** and **SQL databases**
-- Improving performance with **React Query** and other state management libraries
+Currently serving as **Technical Director at Larthaa Lab**, where I lead engineering teams, define software architecture, and oversee the development of multiple commercial products.
 
-## 💞️ Looking to Collaborate On
-- Web and mobile app projects
-- Open-source contributions
-- Innovative ideas for enhancing user experiences
-
-## 📫 How to Reach Me
-- Email: [hassan.21.adnan@gmail.com](hassan.21.adnan@gmail.com)
-- Instagram: [@0_h21](https://www.instagram.com/0_h21)
-  
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-I'm always on the lookout for ways to optimize code and simplify workflows. When I'm not coding, you'll probably find me exploring the latest tech trends or enjoying a good cup of coffee.
+I enjoy transforming ideas into production-ready applications while focusing on clean architecture, scalability, security, and exceptional user experiences.
 
 ---
 
-### 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🌐 Portfolio
+
+🔗 **Portfolio**
+https://hasan-snowy.vercel.app/
+
+Explore my featured projects, professional experience, and technical journey.
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects or connect with me for collaboration. 😊
+## 💼 Professional Roles
+
+* 🚀 Technical Director — Larthaa Lab
+* 👨‍💻 Founder — Alworya
+* 🤝 Technical Director & Partner — FAW GO
+* 🏗 Software Architect
+* ⚙️ Senior Backend Engineer
+* 📱 Full Stack Developer
+
+---
+
+## 🚀 Featured Products
+
+### 🏛 Alworya
+
+Comprehensive digital platform for consultation management, booking, payments, dashboards, and real-time communication.
+
+### 🚗 Jarah
+
+AI-powered marketplace connecting customers with verified local service providers.
+
+### 🚚 FAW GO
+
+Super App for delivery, restaurants, shopping, transportation, and local services.
+
+### 🛒 MEL.IQ
+
+Enterprise SaaS e-commerce platform inspired by modern online store builders.
+
+### 🏢 Majlis
+
+Enterprise platform with encrypted media management and secure government-grade workflows.
+
+### 📧 Mail
+
+Business communication and management platform.
+
+### 🔧 Worshtak
+
+Workshop management platform with scheduling, maintenance, inventory, and analytics.
+
+### 🤖 Let's Speak
+
+AI-powered language learning platform with intelligent chatbot integration.
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* NestJS
+* Node.js
+* Express.js
+* TypeScript
+* Prisma ORM
+* TypeORM
+* REST APIs
+* JWT
+* OAuth
+
+### Frontend
+
+* React
+* React Native
+* Expo
+* Tailwind CSS
+* Material UI
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Firebase
+
+### DevOps
+
+* Docker
+* Linux
+* VPS
+* Nginx
+* Coolify
+* CI/CD
+
+### AI
+
+* OpenAI API
+* AI Automation
+* AI Integrations
+
+---
+
+## 📊 GitHub Statistics
+
+* Enterprise Software Development
+* Backend Architecture
+* Mobile Applications
+* Cloud Infrastructure
+* DevOps
+* AI Integrations
+* Database Design
+* System Architecture
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio
+https://hasan-snowy.vercel.app/
+
+💻 GitHub
+https://github.com/hassan2-dev
+
+💼 LinkedIn
+https://www.linkedin.com/in/hassan-adnan21
+
+📧 Email
+[hassan.21.adnan@gmail.com](mailto:hassan.21.adnan@gmail.com)
+
+---
+
+⭐ Thanks for visiting my GitHub profile.
+
+Feel free to explore my repositories, products, and portfolio. I'm always interested in collaborating on innovative software projects and enterprise solutions.
